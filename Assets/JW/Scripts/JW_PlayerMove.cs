@@ -7,6 +7,7 @@ public class JW_PlayerMove : MonoBehaviour
     public float moveSpeed = 5.0f;
     public float gravity = -9.81f;
     public float jumpPower = 5.0f;
+    public int jumpCount = 1;
     float yVelcity;
     CharacterController cc;
     // Start is called before the first frame update
@@ -32,11 +33,18 @@ public class JW_PlayerMove : MonoBehaviour
 
         //1.y속도에 중력을 계속 더하고 싶다.
         yVelcity += gravity * Time.deltaTime;
-        
+
+        if (cc.collisionFlags == CollisionFlags.Below)
+        {
+            jumpCount = 1;
+            
+        }
+
         //2. 만약 사용자가 점프 버튼을 누르면 y속도에 뛰는 힘을 대입하고 싶다.
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && jumpCount >0 )
         {
             yVelcity = jumpPower;
+            jumpCount--;
         }
 
         //3. y속도를 최종 dir의 y에 대입하고 싶다.

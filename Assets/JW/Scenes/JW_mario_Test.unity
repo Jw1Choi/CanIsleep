@@ -309,7 +309,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 199681767}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -1.01, z: 0}
+  m_LocalPosition: {x: -1.9402955, y: 0, z: 1.9080353}
   m_LocalScale: {x: 29.66959, y: 1, z: 35.91201}
   m_Children: []
   m_Father: {fileID: 0}
@@ -621,6 +621,7 @@ MonoBehaviour:
   moveSpeed: 5
   gravity: -9.81
   jumpPower: 5.68
+  jumpCount: 1
 --- !u!143 &1771897651
 CharacterController:
   m_ObjectHideFlags: 0
@@ -696,7 +697,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1771897649}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.5817175, y: 0.018215656, z: 1.7307587}
+  m_LocalPosition: {x: -2.5364525, y: 1, z: 1.2479489}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 963194228}
