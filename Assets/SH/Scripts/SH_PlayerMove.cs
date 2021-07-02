@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMove : MonoBehaviour
+public class SH_PlayerMove : MonoBehaviour
 {
     public float moveSpeed = 5.0f;
     public float gravity = -9.81f;

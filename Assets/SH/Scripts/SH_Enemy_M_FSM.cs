@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy_M_FSM : MonoBehaviour
+public class SH_Enemy_M_FSM : MonoBehaviour
 {
     public enum EnemyState
     {
