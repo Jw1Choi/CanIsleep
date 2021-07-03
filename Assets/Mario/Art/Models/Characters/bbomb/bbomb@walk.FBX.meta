@@ -1,131 +1,347 @@
 fileFormatVersion: 2
 guid: 5e1094bfda69beb499291256b18890e9
 ModelImporter:
-  serializedVersion: 16
-  fileIDToRecycleName:
-    100000: b_fuse_01
-    100002: b_fuse_02
-    100004: b_fuse_03
-    100006: b_fuse_04
-    100008: b_fuse_05
-    100010: b_fuse_06
-    100012: b_fuse_07
-    100014: b_fuse_08
-    100016: b_fuse_09
-    100018: b_fuse_10
-    100020: b_Hips_Left
-    100022: b_Hips_Right
-    100024: b_LeftAnkle
-    100026: b_LeftFoot
-    100028: b_LeftLeg
-    100030: b_LeftLegUpper
-    100032: b_LeftToe
-    100034: b_RightAnkle
-    100036: b_RightFoot
-    100038: b_RightLeg
-    100040: b_RightLegUpper
-    100042: b_RightToe
-    100044: b_Spine
-    100046: bbomb
-    100048: //RootNode
-    100050: bbomb_com
-    100052: bbomb_root
-    100054: foot_left
-    100056: foot_right
-    100058: fuse_bot
-    100060: fuse_mid
-    100062: fuse_top
-    100064: hip_left
-    100066: hip_right
-    400000: b_fuse_01
-    400002: b_fuse_02
-    400004: b_fuse_03
-    400006: b_fuse_04
-    400008: b_fuse_05
-    400010: b_fuse_06
-    400012: b_fuse_07
-    400014: b_fuse_08
-    400016: b_fuse_09
-    400018: b_fuse_10
-    400020: b_Hips_Left
-    400022: b_Hips_Right
-    400024: b_LeftAnkle
-    400026: b_LeftFoot
-    400028: b_LeftLeg
-    400030: b_LeftLegUpper
-    400032: b_LeftToe
-    400034: b_RightAnkle
-    400036: b_RightFoot
-    400038: b_RightLeg
-    400040: b_RightLegUpper
-    400042: b_RightToe
-    400044: b_Spine
-    400046: bbomb
-    400048: //RootNode
-    400050: bbomb_com
-    400052: bbomb_root
-    400054: foot_left
-    400056: foot_right
-    400058: fuse_bot
-    400060: fuse_mid
-    400062: fuse_top
-    400064: hip_left
-    400066: hip_right
-    4300000: bbomb
-    7400000: Take 001
-    11100000: //RootNode
-    13700000: bbomb
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: b_fuse_01
+  - first:
+      1: 100002
+    second: b_fuse_02
+  - first:
+      1: 100004
+    second: b_fuse_03
+  - first:
+      1: 100006
+    second: b_fuse_04
+  - first:
+      1: 100008
+    second: b_fuse_05
+  - first:
+      1: 100010
+    second: b_fuse_06
+  - first:
+      1: 100012
+    second: b_fuse_07
+  - first:
+      1: 100014
+    second: b_fuse_08
+  - first:
+      1: 100016
+    second: b_fuse_09
+  - first:
+      1: 100018
+    second: b_fuse_10
+  - first:
+      1: 100020
+    second: b_Hips_Left
+  - first:
+      1: 100022
+    second: b_Hips_Right
+  - first:
+      1: 100024
+    second: b_LeftAnkle
+  - first:
+      1: 100026
+    second: b_LeftFoot
+  - first:
+      1: 100028
+    second: b_LeftLeg
+  - first:
+      1: 100030
+    second: b_LeftLegUpper
+  - first:
+      1: 100032
+    second: b_LeftToe
+  - first:
+      1: 100034
+    second: b_RightAnkle
+  - first:
+      1: 100036
+    second: b_RightFoot
+  - first:
+      1: 100038
+    second: b_RightLeg
+  - first:
+      1: 100040
+    second: b_RightLegUpper
+  - first:
+      1: 100042
+    second: b_RightToe
+  - first:
+      1: 100044
+    second: b_Spine
+  - first:
+      1: 100046
+    second: bbomb
+  - first:
+      1: 100048
+    second: //RootNode
+  - first:
+      1: 100050
+    second: bbomb_com
+  - first:
+      1: 100052
+    second: bbomb_root
+  - first:
+      1: 100054
+    second: foot_left
+  - first:
+      1: 100056
+    second: foot_right
+  - first:
+      1: 100058
+    second: fuse_bot
+  - first:
+      1: 100060
+    second: fuse_mid
+  - first:
+      1: 100062
+    second: fuse_top
+  - first:
+      1: 100064
+    second: hip_left
+  - first:
+      1: 100066
+    second: hip_right
+  - first:
+      4: 400000
+    second: b_fuse_01
+  - first:
+      4: 400002
+    second: b_fuse_02
+  - first:
+      4: 400004
+    second: b_fuse_03
+  - first:
+      4: 400006
+    second: b_fuse_04
+  - first:
+      4: 400008
+    second: b_fuse_05
+  - first:
+      4: 400010
+    second: b_fuse_06
+  - first:
+      4: 400012
+    second: b_fuse_07
+  - first:
+      4: 400014
+    second: b_fuse_08
+  - first:
+      4: 400016
+    second: b_fuse_09
+  - first:
+      4: 400018
+    second: b_fuse_10
+  - first:
+      4: 400020
+    second: b_Hips_Left
+  - first:
+      4: 400022
+    second: b_Hips_Right
+  - first:
+      4: 400024
+    second: b_LeftAnkle
+  - first:
+      4: 400026
+    second: b_LeftFoot
+  - first:
+      4: 400028
+    second: b_LeftLeg
+  - first:
+      4: 400030
+    second: b_LeftLegUpper
+  - first:
+      4: 400032
+    second: b_LeftToe
+  - first:
+      4: 400034
+    second: b_RightAnkle
+  - first:
+      4: 400036
+    second: b_RightFoot
+  - first:
+      4: 400038
+    second: b_RightLeg
+  - first:
+      4: 400040
+    second: b_RightLegUpper
+  - first:
+      4: 400042
+    second: b_RightToe
+  - first:
+      4: 400044
+    second: b_Spine
+  - first:
+      4: 400046
+    second: bbomb
+  - first:
+      4: 400048
+    second: //RootNode
+  - first:
+      4: 400050
+    second: bbomb_com
+  - first:
+      4: 400052
+    second: bbomb_root
+  - first:
+      4: 400054
+    second: foot_left
+  - first:
+      4: 400056
+    second: foot_right
+  - first:
+      4: 400058
+    second: fuse_bot
+  - first:
+      4: 400060
+    second: fuse_mid
+  - first:
+      4: 400062
+    second: fuse_top
+  - first:
+      4: 400064
+    second: hip_left
+  - first:
+      4: 400066
+    second: hip_right
+  - first:
+      43: 4300000
+    second: bbomb
+  - first:
+      74: 7400000
+    second: walk
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: bbomb
+  externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 3
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 0.01
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
+    keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
+    serializedVersion: 3
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
+    globalScale: 0.01
     rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 1
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
