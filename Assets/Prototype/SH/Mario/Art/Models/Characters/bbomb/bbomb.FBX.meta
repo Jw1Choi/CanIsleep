@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 16a0330c6f5dc8b44b05f130c493ca7e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: b_fuse_01
+  - first:
+      1: 100002
+    second: b_fuse_02
+  - first:
+      1: 100004
+    second: b_fuse_03
+  - first:
+      1: 100006
+    second: b_fuse_04
+  - first:
+      1: 100008
+    second: b_fuse_05
+  - first:
+      1: 100010
+    second: b_fuse_06
+  - first:
+      1: 100012
+    second: b_fuse_07
+  - first:
+      1: 100014
+    second: b_fuse_08
+  - first:
+      1: 100016
+    second: b_fuse_09
+  - first:
+      1: 100018
+    second: b_fuse_10
+  - first:
+      1: 100020
+    second: b_Hips_Left
+  - first:
+      1: 100022
+    second: b_Hips_Right
+  - first:
+      1: 100024
+    second: b_LeftAnkle
+  - first:
+      1: 100026
+    second: b_LeftFoot
+  - first:
+      1: 100028
+    second: b_LeftLeg
+  - first:
+      1: 100030
+    second: b_LeftLegUpper
+  - first:
+      1: 100032
+    second: b_LeftToe
+  - first:
+      1: 100034
+    second: b_RightAnkle
+  - first:
+      1: 100036
+    second: b_RightFoot
+  - first:
+      1: 100038
+    second: b_RightLeg
+  - first:
+      1: 100040
+    second: b_RightLegUpper
+  - first:
+      1: 100042
+    second: b_RightToe
+  - first:
+      1: 100044
+    second: b_Spine
+  - first:
+      1: 100046
+    second: bbomb
+  - first:
+      1: 100048
+    second: //RootNode
+  - first:
+      1: 100050
+    second: bbomb_com
+  - first:
+      1: 100052
+    second: bbomb_root
+  - first:
+      1: 100054
+    second: foot_left
+  - first:
+      1: 100056
+    second: foot_right
+  - first:
+      1: 100058
+    second: fuse_bot
+  - first:
+      1: 100060
+    second: fuse_mid
+  - first:
+      1: 100062
+    second: fuse_top
+  - first:
+      1: 100064
+    second: hip_left
+  - first:
+      1: 100066
+    second: hip_right
+  - first:
+      4: 400000
+    second: b_fuse_01
+  - first:
+      4: 400002
+    second: b_fuse_02
+  - first:
+      4: 400004
+    second: b_fuse_03
+  - first:
+      4: 400006
+    second: b_fuse_04
+  - first:
+      4: 400008
+    second: b_fuse_05
+  - first:
+      4: 400010
+    second: b_fuse_06
+  - first:
+      4: 400012
+    second: b_fuse_07
+  - first:
+      4: 400014
+    second: b_fuse_08
+  - first:
+      4: 400016
+    second: b_fuse_09
+  - first:
+      4: 400018
+    second: b_fuse_10
+  - first:
+      4: 400020
+    second: b_Hips_Left
+  - first:
+      4: 400022
+    second: b_Hips_Right
+  - first:
+      4: 400024
+    second: b_LeftAnkle
+  - first:
+      4: 400026
+    second: b_LeftFoot
+  - first:
+      4: 400028
+    second: b_LeftLeg
+  - first:
+      4: 400030
+    second: b_LeftLegUpper
+  - first:
+      4: 400032
+    second: b_LeftToe
+  - first:
+      4: 400034
+    second: b_RightAnkle
+  - first:
+      4: 400036
+    second: b_RightFoot
+  - first:
+      4: 400038
+    second: b_RightLeg
+  - first:
+      4: 400040
+    second: b_RightLegUpper
+  - first:
+      4: 400042
+    second: b_RightToe
+  - first:
+      4: 400044
+    second: b_Spine
+  - first:
+      4: 400046
+    second: //RootNode
+  - first:
+      4: 400048
+    second: bbomb
+  - first:
+      4: 400050
+    second: bbomb_com
+  - first:
+      4: 400052
+    second: bbomb_root
+  - first:
+      4: 400054
+    second: foot_left
+  - first:
+      4: 400056
+    second: foot_right
+  - first:
+      4: 400058
+    second: fuse_bot
+  - first:
+      4: 400060
+    second: fuse_mid
+  - first:
+      4: 400062
+    second: fuse_top
+  - first:
+      4: 400064
+    second: hip_left
+  - first:
+      4: 400066
+    second: hip_right
+  - first:
+      43: 4300000
+    second: bbomb
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: bbomb
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - fbc9fa52fbabe0546b5eed043cf586a2
+  - 491dd7dcd5e435b419424bf7624a6a94
+  - 5902c40f33ecf0649bf0182487171db5
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: bbomb(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bbomb
+      parentName: bbomb(Clone)
+      position: {x: -0, y: -0.44486412, z: -0.000000019445629}
+      rotation: {x: -0.7071068, y: -3.0281648e-15, z: -4.5535687e-16, w: 0.7071068}
+      scale: {x: 11.432044, y: 11.6239, z: 11.6239}
+    - name: bbomb_root
+      parentName: bbomb(Clone)
+      position: {x: -0, y: -0.44500434, z: -0.000000019451758}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bbomb_com
+      parentName: bbomb_root
+      position: {x: 0.00031986594, y: -0.00000011920929, z: 0.78201866}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hip_right
+      parentName: bbomb_com
+      position: {x: 0.23040338, y: -0.027942095, z: -0.006364126}
+      rotation: {x: 0.08818205, y: 0.6698105, z: -0.09623399, w: 0.7309699}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: hip_left
+      parentName: bbomb_com
+      position: {x: -0.23103984, y: -0.027940502, z: -0.0063641164}
+      rotation: {x: 0.7309697, y: 0.096234135, z: 0.66981053, w: -0.08818219}
+      scale: {x: -1.0000001, y: -1, z: -1}
+    - name: fuse_top
+      parentName: bbomb_com
+      position: {x: 0.04557003, y: 0.55084443, z: -0.0633213}
+      rotation: {x: -0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fuse_mid
+      parentName: bbomb_com
+      position: {x: 0.024517188, y: 0.48737133, z: -0.032516096}
+      rotation: {x: 0, y: -2.4632216e-15, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: fuse_bot
+      parentName: bbomb_com
+      position: {x: 0.035328414, y: 0.37613928, z: -0.00045570373}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: b_Spine
+      parentName: bbomb_com
+      position: {x: -0.00080126163, y: 0.17852108, z: -0.013066214}
+      rotation: {x: 0.5224896, y: 0.5241273, z: 0.47605458, w: 0.4750445}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000005}
+    - name: b_Hips_Right
+      parentName: b_Spine
+      position: {x: -0.17999876, y: 0.0019992709, z: -0.00019154698}
+      rotation: {x: 0.008176053, y: 0.62897617, z: -0.08710585, w: 0.772486}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000005}
+    - name: b_RightLegUpper
+      parentName: b_Hips_Right
+      position: {x: -0.13692369, y: -0.000000035762785, z: 0}
+      rotation: {x: -0.065200135, y: -0.62827325, z: 0.06382409, w: 0.77262425}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.99999994}
+    - name: b_RightLeg
+      parentName: b_RightLegUpper
+      position: {x: -0.13782327, y: -0.000000017881392, z: 0.000000009536743}
+      rotation: {x: 0.008525844, y: 0.000068932764, z: -0.0019283516, w: 0.9999618}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000005}
+    - name: b_RightAnkle
+      parentName: b_RightLeg
+      position: {x: -0.07706987, y: 0.0000000017881393, z: 0}
+      rotation: {x: 0.00047084404, y: -0.0040569687, z: 0.11242576, w: 0.99365175}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: b_RightFoot
+      parentName: b_RightAnkle
+      position: {x: -0.074969515, y: 0, z: -0.000000019073486}
+      rotation: {x: 0.0012768562, y: 0.0012764762, z: -0.7654406, w: 0.643504}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: b_RightToe
+      parentName: b_RightFoot
+      position: {x: -0.15581346, y: 0.0000010681152, z: -0.000000009536743}
+      rotation: {x: -0.0000019781287, y: 0.00000091467496, z: 0.01923523, w: 0.99981505}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: b_Hips_Left
+      parentName: b_Spine
+      position: {x: -0.17999779, y: -0.0000000023841857, z: 0.00000000923872}
+      rotation: {x: -0.04505797, y: -0.64803123, z: -0.06311293, w: 0.75765574}
+      scale: {x: 1.0000004, y: 0.99999994, z: 0.9999998}
+    - name: b_LeftLegUpper
+      parentName: b_Hips_Left
+      position: {x: -0.13640805, y: -0.012321343, z: 0.003195734}
+      rotation: {x: -0.6391489, y: 0.029246036, z: -0.76186913, w: 0.10093971}
+      scale: {x: -1, y: -1.0000001, z: -0.9999997}
+    - name: b_LeftLeg
+      parentName: b_LeftLegUpper
+      position: {x: -0.13782316, y: -0.000000015497207, z: 0.000000009536743}
+      rotation: {x: 0.008525887, y: 0.00006870877, z: -0.0019284638, w: 0.99996185}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: b_LeftAnkle
+      parentName: b_LeftLeg
+      position: {x: -0.07706989, y: 0, z: 0.000000009536743}
+      rotation: {x: 0.00035525198, y: -0.003183623, z: 0.11196447, w: 0.99370706}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+    - name: b_LeftFoot
+      parentName: b_LeftAnkle
+      position: {x: -0.074969515, y: 0.0000000047683715, z: 0.000000009536743}
+      rotation: {x: -0.0013956319, y: -0.0013122654, z: 0.7652429, w: -0.6437389}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1}
+    - name: b_LeftToe
+      parentName: b_LeftFoot
+      position: {x: -0.15581295, y: 0.0000010681152, z: 0}
+      rotation: {x: -0.000001881853, y: 0.000000766711, z: 0.01922901, w: 0.9998151}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999998}
+    - name: b_fuse_01
+      parentName: bbomb_com
+      position: {x: -0.0003198661, y: 0.30499595, z: -0.004637387}
+      rotation: {x: 0.56743944, y: -0.534089, z: 0.4521069, w: -0.43400553}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: b_fuse_02
+      parentName: b_fuse_01
+      position: {x: -0.052122764, y: -0.00000003993511, z: 0}
+      rotation: {x: -0.0016880629, y: 0.02340923, z: -0.096072614, w: -0.99509764}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: b_fuse_03
+      parentName: b_fuse_02
+      position: {x: -0.049840886, y: 0.000000042915342, z: 0}
+      rotation: {x: 0.12871726, y: -0.037023913, z: 0.14665726, w: 0.9800779}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: b_fuse_04
+      parentName: b_fuse_03
+      position: {x: -0.040608328, y: 0, z: 0}
+      rotation: {x: -0.029771693, y: 0.0064168572, z: 0.58546084, w: 0.8101285}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.99999994}
+    - name: b_fuse_05
+      parentName: b_fuse_04
+      position: {x: -0.037982233, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0.35416853, y: -0.61464477, z: 0.36629897, w: 0.6021641}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1}
+    - name: b_fuse_06
+      parentName: b_fuse_05
+      position: {x: -0.04825792, y: -0.000000076293944, z: -0.000000009536743}
+      rotation: {x: 0.15876812, y: -0.0761281, z: -0.18440086, w: 0.9669506}
+      scale: {x: 0.9999997, y: 0.9999998, z: 0.9999996}
+    - name: b_fuse_07
+      parentName: b_fuse_06
+      position: {x: -0.036809787, y: -0.000000019073486, z: 0}
+      rotation: {x: -0.07285245, y: 0.000018045299, z: -0.3081913, w: -0.94853073}
+      scale: {x: 0.9999997, y: 1.0000001, z: 0.9999998}
+    - name: b_fuse_08
+      parentName: b_fuse_07
+      position: {x: -0.050012834, y: 0.00000025749205, z: 0}
+      rotation: {x: -0.19230053, y: 0.02585525, z: -0.1135249, w: 0.9744046}
+      scale: {x: 0.99999994, y: 0.9999997, z: 1.0000002}
+    - name: b_fuse_09
+      parentName: b_fuse_08
+      position: {x: -0.07514248, y: 0.000000088214875, z: 0.000000009536743}
+      rotation: {x: 0.12270279, y: 0.0019136837, z: 0.16731983, w: -0.9782354}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: b_fuse_10
+      parentName: b_fuse_09
+      position: {x: -0.058412284, y: -0.000000028610229, z: 0.000000009536743}
+      rotation: {x: 0.04899299, y: 0.19671541, z: 0.03481372, w: 0.9786167}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: foot_right
+      parentName: bbomb_root
+      position: {x: 0.1335518, y: -0.039403226, z: 0.000079879756}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot_left
+      parentName: bbomb_root
+      position: {x: -0.13354999, y: -0.039403226, z: 0.000079879756}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
